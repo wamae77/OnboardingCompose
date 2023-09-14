@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="employmentStatus">
+        <item>Full-time employment</item>
+        <item>Part-time employment</item>
+    </string-array>
+
+    <string-array name="countries">
+        <item>Kenya</item>
+        <item>Uganda</item>
+        <item>Tanzania</item>
+    </string-array>
+
+    <string-array name="choices">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="country_code">
+        <item>+254</item>
+        <item>+255</item>
+        <item>+256</item>
+    </string-array>
+</resources>

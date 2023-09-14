@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OnboardingCompose</string>
+    <string name="next">Next</string>
+    <string name="just_few_more_questions">Just a few more questions</string>
+    <string name="regulation_requirement_description">Financial regulations require us to collect tis information</string>
+    <string name="employment_status">Employment status</string>
+    <string name="Disability">Disability</string>
+    <string name="company_name">Company name</string>
+    <string name="company_placeholder">company ltd</string>
+    <string name="department">Department</string>
+    <string name="department_placeholder">Accounting</string>
+    <string name="employee_no">" Employee number"</string>
+    <string name="designation">Designation</string>
+    <string name="company_contact">" Company Contact"</string>
+    <string name="company_email">Company Email</string>
+    <string name="company_email_placeholder">email123@gmail.com</string>
+</resources>
